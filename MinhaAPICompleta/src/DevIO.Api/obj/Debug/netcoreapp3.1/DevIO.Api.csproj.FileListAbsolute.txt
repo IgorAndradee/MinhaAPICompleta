@@ -66,8 +66,6 @@ C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\D
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\DevIO.Api.dll
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\DevIO.Api.pdb
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\FluentValidation.dll
-C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -75,9 +73,6 @@ C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\M
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
@@ -105,8 +100,6 @@ C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\D
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.csprojAssemblyReference.cache
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.AssemblyInfoInputs.cache
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.AssemblyInfo.cs
-C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.csproj.CoreCompileInputs.cache
-C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.RazorTargetAssemblyInfo.cache
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.csproj.CopyComplete
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\obj\Debug\netcoreapp3.1\staticwebassets\DevIO.Api.StaticWebAssets.Manifest.cache
@@ -114,3 +107,8 @@ C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\obj\Debug\netcoreapp3.1\s
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.dll
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.pdb
 C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.genruntimeconfig.cache
+C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.csproj.CoreCompileInputs.cache
+C:\DEV\MinhaAPICompleta\MinhaAPICompleta\src\DevIO.Api\obj\Debug\netcoreapp3.1\DevIO.Api.MvcApplicationPartsAssemblyInfo.cache

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IgK793J4dw8g9oLeyQFbC3KuYjdrgKngMkd875EBJhazwjwILL3pgTp3VQbfBllGzP0vAjc7Cj2nYsc6YZOzAg==",
+  "dgSpecHash": "E5zTNbGBcVvdJsDPWAvU59EaW9AJClFFVDkmAi1tEkASBAE0hoq4w8TGgJLb4vaCb9IuLf8o+kidhQX2v6J+tg==",
   "success": true,
   "projectFilePath": "C:\\DEV\\MinhaAPICompleta\\MinhaAPICompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\iguin\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\iguin\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\iguin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

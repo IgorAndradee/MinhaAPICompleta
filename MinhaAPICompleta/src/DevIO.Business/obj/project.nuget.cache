@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AnHfx//z6BCxoKaETAF12aSb16A1AxxkuikuN8gMnSvc1PeasZ1FsCVg+uf3iPfjFRvmJzgOuzVurMLS5eF+Dg==",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\MinhaAPICompleta\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iguin\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\iguin\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

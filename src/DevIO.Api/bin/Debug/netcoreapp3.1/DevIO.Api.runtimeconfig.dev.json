@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\iguin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\iguin\\.nuget\\packages"
+    ]
+  }
+}

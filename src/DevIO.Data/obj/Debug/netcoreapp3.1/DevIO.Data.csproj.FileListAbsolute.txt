@@ -1,0 +1,12 @@
+C:\DEV\MinhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.deps.json
+C:\DEV\MinhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\DEV\MinhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Data.pdb
+C:\DEV\MinhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+C:\DEV\MinhaAPICompleta\src\DevIO.Data\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+C:\DEV\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csprojAssemblyReference.cache
+C:\DEV\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfoInputs.cache
+C:\DEV\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.AssemblyInfo.cs
+C:\DEV\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\DEV\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.csproj.CopyComplete
+C:\DEV\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.dll
+C:\DEV\MinhaAPICompleta\src\DevIO.Data\obj\Debug\netcoreapp3.1\DevIO.Data.pdb
